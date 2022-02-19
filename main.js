@@ -1,5 +1,5 @@
 // The value of kevin is constant
-const kelvin = 0
+const kelvin = 293
 
 // Convert kelvin to celsius by subtracting 273
 var celsius = kelvin - 273
